@@ -10,7 +10,7 @@ Este repositorio va a contener la definición de las imágenes que después se v
 
 Para replicar el stack en entornos de K8s. 
 
-##Mecanismos. 
+## Mecanismos. 
 
 Se habilitará primero:
 
