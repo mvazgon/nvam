@@ -5,4 +5,5 @@ Este repositorio va a contener la definición de las imágenes que después se v
 - deploy / statefullset
 - servicios 
 - cronjobs, etc...
+
 Para replicar el stack en entornos de K8s. 
